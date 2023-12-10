@@ -1,0 +1,9 @@
+#Your report must include a written description of at
+#least two observable trends based on the data.
+
+1. Students that attend public schools tend to have lower grade averages in math
+and reading scores(math substantially brings the overall passing average down
+in public schools).
+
+2. Interestingly enough, the less money that is spent (on a per student basis), the higher their passing rates
+are. Conversely, the schools that spent the most money on their students had a lower passing rate. 
